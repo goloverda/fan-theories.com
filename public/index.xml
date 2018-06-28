@@ -1,76 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SiteTitle</title>
+    <title>FanTheories</title>
     <link>/</link>
-    <description>Recent content on SiteTitle</description>
+    <description>Recent content on FanTheories</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 15 Jun 2018 17:18:02 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>test post</title>
-      <link>/post/test/</link>
-      <pubDate>Fri, 15 Jun 2018 17:18:02 +0300</pubDate>
+      <title>6 теорий сериала Шерлок</title>
+      <link>/post/6-teorij-seriala-sherlok/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/test/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>/post/6-teorij-seriala-sherlok/</guid>
+      <description>Исследование шести самых экстравагантных теорий фанатов «Шерлока» Поскольку нам обычно приходится ждать целую вечность появления очередной серии «Шерлока», единственное, что нам остается делать в перерыве между ними, это выдвигать свои фанатские теории.
+До сих пор остался неприятный осадок с тех пор, как Шерлоку удалось имитировать свою смерть после падения с крыши во второй серии. А сейчас мы почесываем головы, размышляя о том, что и Мориарти, судя по всему, вернулся из мертвых.</description>
     </item>
     
     <item>
-      <title>test post 2</title>
-      <link>/post/test2/</link>
-      <pubDate>Fri, 15 Jun 2018 17:18:02 +0300</pubDate>
+      <title>Теория Мстителей: Важность Тони Старка</title>
+      <link>/post/teoriya-mstitelej-vazhnost-toni-starka/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/test2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>test post 3</title>
-      <link>/post/test3/</link>
-      <pubDate>Fri, 15 Jun 2018 17:18:02 +0300</pubDate>
-      
-      <guid>/post/test3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>test post 4</title>
-      <link>/post/test4/</link>
-      <pubDate>Fri, 15 Jun 2018 17:18:02 +0300</pubDate>
-      
-      <guid>/post/test4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>test post 5</title>
-      <link>/post/test5/</link>
-      <pubDate>Fri, 15 Jun 2018 17:18:02 +0300</pubDate>
-      
-      <guid>/post/test5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>test post 5</title>
-      <link>/post/test6/</link>
-      <pubDate>Fri, 15 Jun 2018 17:18:02 +0300</pubDate>
-      
-      <guid>/post/test6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>test post 5</title>
-      <link>/post/test7/</link>
-      <pubDate>Fri, 15 Jun 2018 17:18:02 +0300</pubDate>
-      
-      <guid>/post/test7/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>/post/teoriya-mstitelej-vazhnost-toni-starka/</guid>
+      <description>Спойлеры для Войны бесконечности впереди, но даже если вы его еще не посмотрели, скорее всего, уже наслышаны о пыли от Таноса. Во время событий Войны бесконечности погибло много персонажей. Конечно, каждый персонаж был убит таким образом, что писатели могут легко вернуть их к жизни. Локи держал Камень Пространства, который может буквально телепортировать его в любое место в пространстве и может создавать точные копии самого себя, мозг Вижена был загружен или скопирован в базу данных Ваканды, и душа Гаморы оказалась в ловушке Камня Души.</description>
     </item>
     
   </channel>

@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on FanTheories</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on FanTheories</description>
+    <title>Marvel on FanTheories</title>
+    <link>/tags/marvel/</link>
+    <description>Recent content in Marvel on FanTheories</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 15 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/marvel/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>6 теорий сериала Шерлок</title>
-      <link>/post/6-teorij-seriala-sherlok/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/6-teorij-seriala-sherlok/</guid>
-      <description>Исследование шести самых экстравагантных теорий фанатов «Шерлока» Поскольку нам обычно приходится ждать целую вечность появления очередной серии «Шерлока», единственное, что нам остается делать в перерыве между ними, это выдвигать свои фанатские теории.
-До сих пор остался неприятный осадок с тех пор, как Шерлоку удалось имитировать свою смерть после падения с крыши во второй серии. А сейчас мы почесываем головы, размышляя о том, что и Мориарти, судя по всему, вернулся из мертвых.</description>
-    </item>
     
     <item>
       <title>Теория Мстителей: Важность Тони Старка</title>
